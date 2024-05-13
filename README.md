@@ -1,4 +1,4 @@
-# CDDC 2024 Writeup
+# CTF-Writeups
 Writeup Template by RyanNgCT: https://github.com/RyanNgCT/CTF-Writeup-Template
 
 ## Suggested Layout
