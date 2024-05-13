@@ -1,49 +1,17 @@
 # CDDC 2024 CTF
 
-Writeups for CDDC 2024: [CDDC 2024](<https://cddc2024.com/CDDC2024/>)
+Writeups for [CDDC 2024](https://cddc2024.com/CDDC2024/)
 
 ## Categories
 
-- Crypto/Stego
-   - [ ] [<challenge_1>](<link_to_writeup>)
-   - [ ] [<challenge_2>](<link_to_writeup>)
-   
-- Forensics
-   - [ ] [<challenge_1>](<link_to_writeup>)
-   - [ ] [<challenge_2>](<link_to_writeup>)
-   
-- Reverse Engineering/Malware
-   - [ ] [<challenge_1>](<link_to_writeup>)
-   - [ ] [<challenge_2>](<link_to_writeup>)
+- Fundamentals of Cybersecruity
+  - [ ] [#05 I love cat](/Fundamentals%20of%20Cybersecurity/#05%20I%20love%20cat/)
+  - [ ] [#07 re:base](/Fundamentals%20of%20Cybersecurity/#07%20rebase/)
 
-- Pwn/Binary Exploitation
-   - [ ] [<challenge_1>](<link_to_writeup>)
-   - [ ] [<challenge_2>](<link_to_writeup>)
+## Tools I used
 
-- Networking
-   - [ ] [<challenge_1>](<link_to_writeup>)
-   - [ ] [<challenge_2>](<link_to_writeup>)
- 
-- Cloud
-   - [ ] [<challenge_1>](<link_to_writeup>)
-   - [ ] [<challenge_2>](<link_to_writeup>)
-   
-- IoT
-   - [ ] [<challenge_1>](<link_to_writeup>)
-   - [ ] [<challenge_2>](<link_to_writeup>)
+- [CyberChef](https://gchq.github.io/CyberChef/)
+  Used for decryption
 
-- ML
-   - [ ] [<challenge_1>](<link_to_writeup>)
-   - [ ] [<challenge_2>](<link_to_writeup>)
-
-- Hardware
-   - [ ] [<challenge_1>](<link_to_writeup>)
-   - [ ] [<challenge_2>](<link_to_writeup>)
-
-- OSINT
-   - [ ] [<challenge_1>](<link_to_writeup>)
-   - [ ] [<challenge_2>](<link_to_writeup>)
-
-- Miscellaneous
-   - [ ] [<challenge_1>](<link_to_writeup>)
-   - [ ] [<challenge_2>](<link_to_writeup>)
+- [md5hashgenerator](https://www.md5hashgenerator.com/)
+  Used to generate md5 hash
