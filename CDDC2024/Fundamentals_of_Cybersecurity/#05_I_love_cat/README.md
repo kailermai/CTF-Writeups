@@ -1,14 +1,12 @@
 # Challenge Name: <#05 I love cat>
 
-## Category: <Cybersecurity>
-
-## Points: <100>
-
-## Solves: <273>
+- Category: Cybersecurity
+- Points: <100>
+- Solves: <273>
 
 ### Challenge Description:
 
-<Can you try to communicate with 3.1.147.170 on port 10000>
+Can you try to communicate with 3.1.147.170 on port 10000
 
 ### Solution
 
