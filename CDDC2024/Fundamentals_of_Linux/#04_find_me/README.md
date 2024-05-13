@@ -1,4 +1,4 @@
-# Challenge Name: <#03 find me>
+# Challenge Name: <#04 find me>
 
 - Category: Linux
 - Points: <200>
@@ -29,14 +29,16 @@ The account list with different users and passwords have also been provided, but
 
 However, trying to read the flag files will lead to permission denied error. Hence, with the hint in the question, I switched users using the su command, finding the user that can access the flag files, obtaining the flag.
 
-`su ashe`
-`Password: J0SoDPhHEtt0ccp`
-`cat flag1.txt`
-`Congratulation! flag is CDDC2024{ThaaAnkUF0rf1nd`
-`su poppy`
-`Password: 7PsISFc0YYTCqSD`
-`cat flag2.txt`
-`myaAaACC0unT}`
+```
+su ashe
+Password: J0SoDPhHEtt0ccp
+cat flag1.txt
+Congratulation! flag is CDDC2024{ThaaAnkUF0rf1nd
+su poppy
+Password: 7PsISFc0YYTCqSD
+cat flag2.txt
+myaAaACC0unT}
+```
 
 ### Flag
 

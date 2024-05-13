@@ -22,8 +22,10 @@ Using nc, I communicated with 3.1.147.170 on port 10002
 
 With the hint, I changed the directory into /etc and used the cat command to read the passwd file, obtaining the flag.
 
-`cd /etc`
-`cat passwd`
+```
+cd /etc
+cat passwd
+```
 
 ### Flag
 
