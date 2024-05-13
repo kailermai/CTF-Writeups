@@ -27,8 +27,10 @@ Use ls and we get the list of files:
 
 There seems to be more sub-folders within these folders. It seems that we can brute force each directory to find flag.txt, but we can use the find command to search for flag.txt
 
-`find . -name "flag.txt"`
-`./8/7/4/1/0/6/flag.txt`
+```
+find . -name "flag.txt"
+./8/7/4/1/0/6/flag.txt
+```
 
 With this, we know that the flag is in the directory ./8/7/4/1/0/6/flag.txt, and we can access it with cat to get the flag.
 
