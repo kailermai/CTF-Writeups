@@ -1,9 +1,7 @@
 # Challenge Name: <#07 re:base>
 
 - Category: Cybersecurity
-
 - Points: <100>
-
 - Solves: <222>
 
 ## Challenge Description:
