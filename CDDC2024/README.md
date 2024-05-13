@@ -4,9 +4,9 @@ Writeups for [CDDC 2024](https://cddc2024.com/CDDC2024/)
 
 ## Categories
 
-- Fundamentals of Cybersecruity
-  - [ ] [#05 I love cat](/CDDC2024/Fundamentals%20of%20Cybersecurity/#05%20I%20love%20cat/)
-  - [ ] [#07 re:base](/CDDC2024/Fundamentals%20of%20Cybersecurity/#07%20rebase/)
+- [Fundamentals_of_Cybersecruity](/CDDC2024/Fundamentals_of_Cybersecurity/)
+  - [ ] [#05_I_love_cat](/CDDC2024/Fundamentals_of_Cybersecurity/#05_I_love_cat/)
+  - [ ] [#07_re:base](/CDDC2024/Fundamentals_of_Cybersecurity/#07_rebase/)
 
 ## Tools I used
 
