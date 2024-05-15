@@ -18,7 +18,7 @@ Writeups for [CDDC 2024](https://cddc2024.com/CDDC2024/)
 
 - [Introduction_to_Cryptography](/CDDC2024/%20Introduction_to_Cryptography/)
 
-  - [ ] [#04_vigenere](https://github.com/kailermai/CTF-Writeups/tree/main/CDDC2024/Introduction_to_Cryptography/%2304_vigenere)
+  - [ ] [#04_vigenere](https://github.com/kailermai/CTF-Writeups/tree/main/CDDC2024/%20Introduction_to_Cryptography/%2304_vigenere)
 
 ## Tools I used
 

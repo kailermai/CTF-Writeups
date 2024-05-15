@@ -44,7 +44,6 @@ def main():
 
 if __name__ == "__main__":
     main()
-
 ```
 
 ## Solution
@@ -77,7 +76,6 @@ By adjusting the plaintext to the given encrypted flag, KOBK2024{q_J0Gc_e0_pY7_n
 Plaintext: KOBK2024{q_J0Gc_e0_pY7_n1kX4}
 Key: SPC
 Ciphertext: CDDC2024{i_L0Ve_t0_eA7_p1zZ4}
-
 ```
 
 ## Flag
