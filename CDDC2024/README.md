@@ -19,6 +19,7 @@ Writeups for [CDDC 2024](https://cddc2024.com/CDDC2024/)
 - [Introduction_to_Cryptography](/CDDC2024/%20Introduction_to_Cryptography/)
 
   - [ ] [#04_vigenere](https://github.com/kailermai/CTF-Writeups/tree/main/CDDC2024/%20Introduction_to_Cryptography/%2304_vigenere)
+  - [ ] [#02_kpsvmswyw_mqqsvxepmw](https://github.com/kailermai/CTF-Writeups/tree/main/CDDC2024/%20Introduction_to_Cryptography/%2302_kpsvmswyw_mqqsvxepmw)
 
 ## Tools I used
 
@@ -27,3 +28,6 @@ Writeups for [CDDC 2024](https://cddc2024.com/CDDC2024/)
 
 - [md5hashgenerator](https://www.md5hashgenerator.com/)
   Used to generate md5 hash
+
+- [dcode](https://www.dcode.fr/cipher-identifier)
+  Used to identify decoders to use
