@@ -13,7 +13,7 @@ http://47.128.156.184:10000/
 ## File content
 
 - static
-- temmplates
+- templates
 - app.py
 - dockerfile
 
