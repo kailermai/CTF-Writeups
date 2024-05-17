@@ -1,6 +1,6 @@
 # Challenge Name: <#02 YummyCookie>
 
-- Category: Linux
+- Category: Web Security
 - Points: <100>
 - Solves: <157>
 
