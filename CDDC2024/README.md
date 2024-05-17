@@ -26,7 +26,7 @@ Writeups for [CDDC 2024](https://cddc2024.com/CDDC2024/)
 
   - [ ] [#02_YummyCookie](https://github.com/kailermai/CTF-Writeups/tree/main/CDDC2024/Introduction_to_Web_Security/%2302_YummyCookie)
   - [ ] [#03_Event](https://github.com/kailermai/CTF-Writeups/tree/main/CDDC2024/Introduction_to_Web_Security/%2303_Event)
-  - [ ] [#03_Master](https://github.com/kailermai/CTF-Writeups/tree/main/CDDC2024/Introduction_to_Web_Security/%2304_Master)
+  - [ ] [#04_Master](https://github.com/kailermai/CTF-Writeups/tree/main/CDDC2024/Introduction_to_Web_Security/%2304_master)
 
 
 ## Tools I used
