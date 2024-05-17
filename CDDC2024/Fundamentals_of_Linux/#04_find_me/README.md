@@ -4,14 +4,14 @@
 - Points: <200>
 - Solves: <180>
 
-### Challenge Description:
+## Challenge Description
 
 There is a Flag file! But I can't read it.
 Who can read that file?
 
 nc 3.1.147.170 10003
 
-### Solution
+## Solution
 
 Using nc, I communicated with 3.1.147.170 on port 10003
 
@@ -40,15 +40,17 @@ cat flag2.txt
 myaAaACC0unT}
 ```
 
-### Flag
+## Flag
 
 CDDC2024{ThaaAnkUF0rf1ndmyaAaACC0unT}
 
-### Notes
+## Notes
 
 The su (short for substitute or switch user) utility allows you to run commands with another user’s privileges, by default the root user.
 
 Using su is the simplest way to switch to the administrative account in the current login session. This is especially handy when the root user is not allowed to log in to the system through ssh or using the GUI display manager.
+
+We can also use stat flag1.txt to see who has permission to access the text files using UId or GId, then we can cd to /etc and cat passwd to list out all the users and their UId and GId. Using the GId that a user belongs to we can then access the file
 
 ---
 

@@ -4,13 +4,13 @@
 - Points: <200>
 - Solves: <123>
 
-## Challenge Description:
+## Challenge Description
 
 Ciphertext: KOBK2024{q_J0Gc_e0_pY7_n1kX4}
 
 Can you guess the key?
 
-## File content:
+## File content
 
 - vigenere_public.py
 

@@ -4,13 +4,13 @@
 - Points: <100>
 - Solves: <204>
 
-### Challenge Description:
+## Challenge Description
 
 Can you find the flag across these folders?
 
 nc 3.1.147.170 10004
 
-### Solution
+## Solution
 
 Use ls and we get the list of files:
 
@@ -34,11 +34,11 @@ find . -name "flag.txt"
 
 With this, we know that the flag is in the directory ./8/7/4/1/0/6/flag.txt, and we can access it with cat to get the flag.
 
-### Flag
+## Flag
 
 CDDC2024{f1Nd3rS_KE3PErs}
 
-### Notes
+## Notes
 
 https://www.geeksforgeeks.org/find-command-in-linux-with-examples/
 

@@ -4,7 +4,7 @@
 - Points: <100>
 - Solves: <179>
 
-## Challenge Description:
+## Challenge Description
 
 N gzyjcjvv wzbnaufl ncc bp cfij
 Vtwwztakjk mp lztycjv ncc ugj ufbj

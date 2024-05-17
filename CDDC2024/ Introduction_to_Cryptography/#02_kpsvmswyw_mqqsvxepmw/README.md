@@ -4,14 +4,14 @@
 - Points: <100>
 - Solves: <101>
 
-## Challenge Description:
+## Challenge Description
 
 wrap the flag in CDDC2024{}
 lower case without underscore
 
 eg: CDDC2024{thisisthedecodedresult}
 
-## File content:
+## File content
 
 - kpsvmswyw mqqsvxepmw.jpg
 

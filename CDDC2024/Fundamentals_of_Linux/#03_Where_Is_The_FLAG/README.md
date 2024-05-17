@@ -4,17 +4,17 @@
 - Points: <100>
 - Solves: <180>
 
-### Challenge Description:
+## Challenge Description
 
 Where is the secret FLAG?
 
 nc 3.1.147.170 10002
 
-### Hint
+## Hint
 
 Security is important in the /etc directory in Linux because it contains system-wide configuration files! Take a look in that directory!
 
-### Solution
+## Solution
 
 Using nc, I communicated with 3.1.147.170 on port 10002
 
@@ -27,11 +27,11 @@ cd /etc
 cat passwd
 ```
 
-### Flag
+## Flag
 
 CDDC2024{vERRRRRy1mportAnTFIlE}
 
-### Notes
+## Notes
 
 The cat command in Linux is more than just a simple tool; it’s a versatile companion for various file-related operations, allowing users to view, concatenate, create, copy, merge, and manipulate file contents
 
