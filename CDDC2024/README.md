@@ -30,6 +30,10 @@ Writeups for [CDDC 2024](https://cddc2024.com/CDDC2024/)
   - [ ] [#05_Source](https://github.com/kailermai/CTF-Writeups/tree/main/CDDC2024/Introduction_to_Web_Security/%2305_Source)
   - [ ] [#06_traverse](https://github.com/kailermai/CTF-Writeups/tree/main/CDDC2024/Introduction_to_Web_Security/%2306_traverse)
 
+- [Network Security](/CDDC2024/Network_Secruity/)
+  - [] [#02_udppp]
+  - [] [#03_text]
+
 
 ## Tools I used
 
