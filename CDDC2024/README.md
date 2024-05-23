@@ -1,8 +1,13 @@
 # CDDC 2024 CTF
 
 Writeups for [CDDC 2024](https://cddc2024.com/CDDC2024/)
+| Categories | Challenges Solved | Points | University Ranking | Overall Ranking|
+| -------- | ------------------  |--------|--------------------|----------------|
+| Training | 46 /125             | 3590   | 128 / 1105         | 189 / 1923     |
 
 ## Categories
+
+### Training
 
 - [Fundamentals_of_Cybersecurity](/CDDC2024/Fundamentals_of_Cybersecurity/)
 
