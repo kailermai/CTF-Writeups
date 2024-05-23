@@ -35,7 +35,7 @@ Writeups for [CDDC 2024](https://cddc2024.com/CDDC2024/)
   - [ ] [#03_text](https://github.com/kailermai/CTF-Writeups/tree/main/CDDC2024/Network_Secruity/%2303_text)
 
 - [Cryptography](/CDDC2024/Cryptography/)
-  - [ ] [#03_random]()  
+  - [ ] [#03_random](https://github.com/kailermai/CTF-Writeups/tree/main/CDDC2024/Cryptography/%2303_random)  
 
 
 ## Tools I used
