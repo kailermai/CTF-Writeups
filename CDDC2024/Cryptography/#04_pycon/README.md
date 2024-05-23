@@ -1,8 +1,8 @@
-# Challenge Name: <03 pycon>
+# Challenge Name: <04 pycon>
 
 - Category: Cryptography
-- Points: <>
-- Solves: <>
+- Points: <100>
+- Solves: <148>
 
 ## Challenge Description
 
