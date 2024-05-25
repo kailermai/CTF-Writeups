@@ -1,4 +1,4 @@
-# Challenge Name: <#02 udppp>
+# Challenge Name: <#05 Find flag in packets>
 
 - Category: Network Security
 - Points: <200>
