@@ -12,7 +12,7 @@ http://47.128.156.184:10003/
 
 ## Solution
 
-![Screenshot of the challenge](/Images/websecurity_05source.png)
+![Screenshot of the challenge](/Images/CDDC2024_Training/websecurity_05source.png)
 
 Inspecting the webpage, we get the first part of the flag in the html source code.
 `CDDC2024{1_L0v3_w3B (1/4)`

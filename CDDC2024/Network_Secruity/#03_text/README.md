@@ -54,7 +54,7 @@ This is the end, aka fin.
 
 We see a weird text at the bottom that isn't part of Lorum Ipsum, putting it into a decoded gets us a link to a google docs. 
 
-![Screenshot of the challenge](/Images/networksecurity03text.png)
+![Screenshot of the challenge](/Images/CDDC2024_Training/networksecurity03text.png)
 
 Highlighting the entire document gets us the flag.
 
