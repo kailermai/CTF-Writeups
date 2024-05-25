@@ -39,6 +39,7 @@ Writeups for [CDDC 2024](https://cddc2024.com/CDDC2024/)
   - [ ] [#02_udppp](https://github.com/kailermai/CTF-Writeups/tree/main/CDDC2024/Network_Secruity/%2302_udppp)
   - [ ] [#03_text](https://github.com/kailermai/CTF-Writeups/tree/main/CDDC2024/Network_Secruity/%2303_text)
   - [ ] [#05_Find_flag_in_packets](https://github.com/kailermai/CTF-Writeups/tree/main/CDDC2024/Network_Secruity/%2305_Find_flag_in_packets)
+  - [ ] [#07_TELL_ME_TELNET_PASSWORD](https://github.com/kailermai/CTF-Writeups/tree/main/CDDC2024/Network_Secruity/%2307_TELL_ME_TELNET_PASSWORD)
 
 - [Cryptography](/CDDC2024/Cryptography/)
   - [ ] [#03_random](https://github.com/kailermai/CTF-Writeups/tree/main/CDDC2024/Cryptography/%2303_random)  
