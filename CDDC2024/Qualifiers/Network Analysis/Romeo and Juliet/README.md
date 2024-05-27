@@ -1,4 +1,4 @@
-# Challenge Name: <Romeo and Juliet>
+# Challenge Name: <#Romeo and Juliet>
 
 - Category: Network Analysis
 - Points: <100>

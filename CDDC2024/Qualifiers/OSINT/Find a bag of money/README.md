@@ -1,4 +1,4 @@
-# Challenge Name: <Find a bag of money>
+# Challenge Name: <#Find a bag of money>
 
 - Category: OSINT
 - Points: <250>
