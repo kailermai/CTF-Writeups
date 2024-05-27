@@ -56,3 +56,9 @@ Writeups for [CDDC 2024](https://cddc2024.com/CDDC2024/)
 
 - [dcode](https://www.dcode.fr/cipher-identifier)
   Used to identify decoders to use
+
+- [GPSVisualiser](https://www.gpsvisualizer.com/)
+  Used for pinpointing locations on a map with image metadata, longitude and latitude
+
+- [Exiftool](https://exiftool.org/)
+  A command-line application for reading, writing and editing meta information in a wide variety of files.

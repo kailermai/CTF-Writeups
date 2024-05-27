@@ -44,7 +44,7 @@ To access the CID, we can use:
 
 This will download a zip file containing 1000 images of money bags. Inspecting the metadata of the images, we can see that each picture maps to a different location on the map. Hence, we can use exiftools to extract the longitude and latitude of each image into a CSV file:
 
-`./exiftool -csv -gpslongitude -gpslatitude > test1.csv (location of the folder, eg: /Desktop/download)`
+`./exiftool -csv -gpslongitude -gpslatitude > test1.csv (location of the folder with 1000 images, eg: /Desktop/download)`
 
 The flags -csv outputs a csv file withgpslongitude and gpslatitude, with the name test1.csv.
 
@@ -62,7 +62,12 @@ CDDC24{taj_mahal}
 
 ## Notes
 
-NIL
+Resource references:
+- https://www.gpsvisualizer.com/
+- https://medium.tjhouston.com/exporting-gps-data-from-a-folder-of-images-writing-to-a-csv-bd1d4d65f639
+- https://exiftool.org/
+- https://www.geeksforgeeks.org/installing-and-using-exiftool-on-linux/ (Installing exiftools on MacOS)
+
 
 ---
 
