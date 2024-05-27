@@ -1,4 +1,4 @@
-# Challenge Name: <Romeo and Juliet>
+# Challenge Name: <Find a bag of money>
 
 - Category: OSINT
 - Points: <250>
