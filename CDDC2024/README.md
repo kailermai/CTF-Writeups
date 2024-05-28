@@ -4,6 +4,7 @@ Writeups for [CDDC 2024](https://cddc2024.com/CDDC2024/)
 | Categories | Challenges Solved | Points | University Ranking | Overall Ranking|
 | -------- | ------------------  |--------|--------------------|----------------|
 | Training | 46 /125             | 3590   | 128 / 1105         | 189 / 1923     |
+| Qualifiers| 8 /36              | 850    | 106 / 405          | 159 / 712     |
 
 ## Categories
 
@@ -45,6 +46,19 @@ Writeups for [CDDC 2024](https://cddc2024.com/CDDC2024/)
   - [ ] [#03_random](https://github.com/kailermai/CTF-Writeups/tree/main/CDDC2024/Cryptography/%2303_random)  
   - [ ] [#04_pycon](https://github.com/kailermai/CTF-Writeups/tree/main/CDDC2024/Cryptography/%2304_pycon)  
 
+### Qualifiers
+
+- [Cryptography](/CDDC2024/Qualifiers/Cryptography/)
+  - [ ] [Simple2](https://github.com/kailermai/CTF-Writeups/tree/main/CDDC2024/Qualifiers/Cryptography/Simple2)  
+
+- [Network Analysis](/CDDC2024/Qualifiers/Network%20Analysis/)
+  - [ ] [Romeo and Juliet](https://github.com/kailermai/CTF-Writeups/tree/main/CDDC2024/Qualifiers/Network%20Analysis/Romeo%20and%20Juliet)  
+
+- [Web Application Vulnerability](/CDDC2024/Qualifiers/Web%20Application%20Vulnerability/)
+  - [ ] [A Purrfect Chat](https://github.com/kailermai/CTF-Writeups/tree/main/CDDC2024/Qualifiers/Web%20Application%20Vulnerability/A%20Purrfect%20Chat)  
+
+- [OSINT](/CDDC2024/Qualifiers/OSINT/)
+  - [ ] [Find a bag of money](https://github.com/kailermai/CTF-Writeups/tree/main/CDDC2024/Qualifiers/OSINT/Find%20a%20bag%20of%20money)
 
 ## Tools I used
 
