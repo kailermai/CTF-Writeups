@@ -2,7 +2,7 @@
 
 - Category: OSINT
 - Points: <250>
-- Solves: <>
+- Solves: <173>
 
 ## Challenge Description
 

@@ -2,7 +2,7 @@
 
 - Category: Network Analysis
 - Points: <100>
-- Solves: <>
+- Solves: <325>
 
 ## Challenge Description
 
